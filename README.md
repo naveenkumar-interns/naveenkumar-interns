@@ -9,17 +9,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=naveenkumar-interns&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<div style="text-align: justify; display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
-  <a href="https://x.com/NaveenXplorer" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer"/>
-  </a>
-
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" 
-     target="_blank" 
-     style="background-color:#0A66C2; color:white; padding: 12px 20px; text-decoration: none; font-weight: bold; border-radius: 6px; display: inline-block;">
-    Follow on LinkedIn
-  </a>
+<div style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: 0 auto;">
+  <p style="margin: 0;">
+    <a href="https://x.com/NaveenXplorer" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" />
+    </a>
+  </p>
+  <p style="margin: 0;">
+    <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" target="_blank" style="display: inline-block; padding: 6px 16px; background-color: #0a66c2; color: white; text-decoration: none; font-weight: bold; border-radius: 4px;">Follow on LinkedIn</a>
+  </p>
 </div>
+
 
 
 - 🚀 I’m currently working on LLM-based applications using RAG, LangChain, and CrewAI.
