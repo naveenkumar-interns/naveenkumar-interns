@@ -8,8 +8,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=naveenkumar-interns&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://x.com/NaveenXplorer" target="blank"><img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" /></a> </p>
-<p align="Right"> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" target="_blank">Follow on LinkedIn</a> </p>
+<div align-items="justify">
+  <p> <a href="https://x.com/NaveenXplorer" target="blank"><img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" /></a> </p>
+<p> <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" target="_blank">Follow on LinkedIn</a> </p>
+</div>
+
 
 
 - 🚀 I’m currently working on LLM-based applications using RAG, LangChain, and CrewAI.
