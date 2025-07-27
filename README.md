@@ -1,3 +1,8 @@
+
+Hi 👋, I'm Naveenkumar S
+A passionate AI Engineer
+
+
 # 💫 About Me:
 🚀 I’m currently working on LLM-based applications using RAG, LangChain, and CrewAI.<br>🤝 I’m looking to collaborate on open-source GenAI projects and real-world use cases involving NLP, vector databases, and MLOps.<br>🙋‍♂️ I’m looking for help with Debugging complex code and scaling applications.<br>🌱 I’m currently learning advanced RAG architecture, memory-augmented agents, and Advanced Neural networks<br>💬 Ask me about Generative AI, AI agent frameworks, Pinecone, Haystack, or automating ML workflows with FastAPI.<br>⚡ Fun fact: I can solve a Rubik’s cube in under a minute!<br><br>
 
