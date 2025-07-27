@@ -3,9 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-interns&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar-interns" /> </p>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=naveenkumar-interns&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-# 💫 About Me:
-🚀 I’m currently working on LLM-based applications using RAG, LangChain, and CrewAI.<br>🤝 I’m looking to collaborate on open-source GenAI projects and real-world use cases involving NLP, vector databases, and MLOps.<br>🙋‍♂️ I’m looking for help with Debugging complex code and scaling applications.<br>🌱 I’m currently learning advanced RAG architecture, memory-augmented agents, and Advanced Neural networks<br>💬 Ask me about Generative AI, AI agent frameworks, Pinecone, Haystack, or automating ML workflows with FastAPI.<br>⚡ Fun fact: I can solve a Rubik’s cube in under a minute!<br><br>
+<p align="left"> <a href="https://x.com/NaveenXplorer" target="blank"><img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" /></a> </p>
+
+
+- 🚀 I’m currently working on LLM-based applications using RAG, LangChain, and CrewAI.
+- 🤝 I’m looking to collaborate on open-source GenAI projects and real-world use cases involving NLP, vector databases, and MLOps.
+- 🙋‍♂️ I’m looking for help with Debugging complex code and scaling applications.
+- 🌱 I’m currently learning advanced RAG architecture, memory-augmented agents, and Advanced Neural networks
+- 💬 Ask me about Generative AI, AI agent frameworks, Pinecone, Haystack, or automating ML workflows with FastAPI.
+- ⚡ Fun fact: I can solve a Rubik’s cube in under a minute!<br><br>
 
 
 ## 🌐 Socials:
@@ -18,8 +27,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=naveenkumar-interns&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkumar-interns&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naveenkumar-interns&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naveenkumar-interns&icon=0&color=13)](https://visitcount.itsvg.in)
