@@ -1,6 +1,7 @@
+<h1 align="center">Hi 👋, I'm Naveenkumar S</h1>
+<h3 align="center">An Aspiring AI Engineer</h3>
 
-Hi 👋, I'm Naveenkumar S
-A passionate AI Engineer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-interns&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar-interns" /> </p>
 
 
 # 💫 About Me:
