@@ -9,17 +9,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=naveenkumar-interns&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<p style="text-align: justify;">
-  <a href="https://x.com/NaveenXplorer" target="_blank" style="margin-right: 15px;">
-    <img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" />
-  </a>
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" 
-     target="_blank" 
-     style="background-color:#0A66C2; color:white; padding: 10px 16px; text-decoration: none; font-weight: bold; border-radius: 5px;">
-    Follow on LinkedIn
-  </a>
-</p>
-
+<div style="display: flex; justify-content: space-between; align-items: center; max-width: 600px; margin: 0 auto;">
+  <p style="margin: 0;">
+    <a href="https://x.com/NaveenXplorer" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" />
+    </a>
+    <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" target="_blank" style="display: inline-block; padding: 6px 16px; background-color: #0a66c2; color: white; text-decoration: none; font-weight: bold; border-radius: 4px;">Follow on LinkedIn</a>
+  </p>
+</div>
 
 
 
