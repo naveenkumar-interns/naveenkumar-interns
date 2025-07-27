@@ -9,7 +9,16 @@
 ![](https://github-profile-trophy.vercel.app/?username=naveenkumar-interns&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-<p> <a href="https://x.com/NaveenXplorer" target="blank"><img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" /></a>  <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" target="_blank">Follow on LinkedIn</a>  </p>
+<p style="text-align: justify;">
+  <a href="https://x.com/NaveenXplorer" target="_blank" style="margin-right: 15px;">
+    <img src="https://img.shields.io/twitter/follow/NaveenXplorer?logo=twitter&style=for-the-badge" alt="NaveenXplorer" />
+  </a>
+  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=-naveenkumar-s" 
+     target="_blank" 
+     style="background-color:#0A66C2; color:white; padding: 10px 16px; text-decoration: none; font-weight: bold; border-radius: 5px;">
+    Follow on LinkedIn
+  </a>
+</p>
 
 
 
